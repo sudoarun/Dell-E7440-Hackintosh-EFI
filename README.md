@@ -20,7 +20,7 @@ What Works
 - HDMI -> DVI
 
 What Does Not Work ?
-As of Right Now. Nothing
+- As of Right Now. Nothing
 
 # Installation
 Just Replace My EFi with Your EFI ( Make Backup First ). 
