@@ -1,5 +1,6 @@
 # Dell-E7440-EFI-Hackintosh
 OpenCore EFI for Dell E7440 (High Sierra - Big Sur) 
+
 This Branch is for DELL Latitude E7440 with A25 bios system.
 
 
