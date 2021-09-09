@@ -7,17 +7,17 @@ This Branch is for DELL Latitude E7440 with A25 bios system.
 
 What Works 
 
-WiFi ( Qualcom Atheros 2.4Ghz single band Without Bluetooth )
-Audio (ALC 292 With Headphones )
-LAN (Intel Ethernet )
-Graphics Intel HD4400 
-Facetime/iMessage
-Trackpoint/Touchpad
-Pretty much everything except what is listed below
-miniDP -> VGA
-miniDP -> HDMI or DVI
-HDMI -> HDMI
-HDMI -> DVI
+- WiFi ( Qualcom Atheros 2.4Ghz single band Without Bluetooth )
+- Audio (ALC 292 With Headphones )
+- LAN (Intel Ethernet )
+- Graphics Intel HD4400 
+- Facetime/iMessage
+- Trackpoint/Touchpad
+- Pretty much everything except what is listed below
+- miniDP -> VGA
+- miniDP -> HDMI or DVI
+- HDMI -> HDMI
+- HDMI -> DVI
 
 What Does Not Work ?
 As of Right Now. Nothing
