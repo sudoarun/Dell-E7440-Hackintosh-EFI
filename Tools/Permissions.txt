@@ -1,0 +1,44 @@
+###### To enable WiFi in BigSur simply copy and paste line by line in the terminal: ######
+
+
+sudo mount -uw / ; killall Finder
+
+cd /System/Library/Extensions/
+
+sudo mv IO80211Family.kext IO80211Family.backup
+
+open /System/Library/Extensions/
+
+Then copy using Finder the IO80211Family.kext from the link attached, after return to BigSur terminal and continue typing:
+
+sudo -s chown -R 0:0 /System/Library/Extensions/
+
+chmod -R 755 /System/Library/Extensions/
+
+kmutil install --update-all kcditto
+
+Some users have reported error 66 when using sudo mount -uw
+
+PixelmonGalaxy in the macforums thread suggested booting into recovery mode and entering in the terminal csrutil authenticated-root disable
+
+
+
+########### To Enable Read Write in BigSur ############
+
+
+
+sudo mount -uw / ; killall Finder
+
+sudo -s
+
+chown -R 0:0 /System/Library/Extensions/
+
+chmod -R 755 /System/Library/Extensions/
+
+kmutil install --update-all
+
+kcditto
+
+
+
+https://www.reddit.com/r/BigSurPatcher/comments/hf5sal/wifi_patch_for_80211n_macs_that_had_their_support/
