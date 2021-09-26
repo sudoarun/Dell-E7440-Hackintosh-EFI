@@ -30,6 +30,6 @@ Just Replace My EFi with Your EFI ( Make Backup First ).
 - Open Tools Folder and Extract Alc compressed File
 - Move alc_fix Folder to Desktop and Open Terminal
 - Type `cd`, Then Drag Folder To the Terminal
-- Type `chmod +x `,then drag install.sh and hit enter button
+- Type `chmod +x`,then drag install.sh and hit enter button
 - After All done
 - Reboot And Enjoy.
