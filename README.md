@@ -1,12 +1,12 @@
-# Dell-E7440-EFI-Hackintosh
+# Dell-E7440-EFI-Hackintosh🤩
 OpenCore EFI for Dell E7440 (High Sierra - Big Sur) 
 
 This Branch is for DELL Latitude E7440 with A25 bios system.
 
 
-# Dell E7440 i5 4300U 1.90Ghz 2.50Ghz
+# Dell E7440 i5 4300U 1.90Ghz 2.50Ghz😏
 
-What Works 
+What Works😛
 
 - WiFi ( Qualcom Atheros 2.4Ghz single band Without Bluetooth )
 - Audio (ALC 292 With Headphones )
@@ -23,10 +23,10 @@ What Works
 What Does Not Work ?
 - As of Right Now. Nothing
 
-# Installation
+# Installation🥱
 Just Replace My EFi with Your EFI ( Make Backup First ). 
 
-# Sound Fix
+# Sound Fix🙃
 - Open Tools Folder and Extract Alc compressed File
 - Move alc_fix Folder to Desktop and Open Terminal
 - Type `cd`, Then Drag Folder To the Terminal
